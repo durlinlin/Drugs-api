@@ -1,22 +1,27 @@
 [
   {
     "typeOfDisease": "Hypertension",
-    "chornicDisease": "true",
+    "chornicDisease": true,
     "treatments": []
   },
   {
     "typeOfDisease": "Type II Diabetes",
-    "chornicDisease": "true",
+    "chornicDisease": true,
     "treatments": []
   },
   {
     "typeOfDisease": "Hyperlipidemia",
-    "chornicDisease": "true",
+    "chornicDisease": true,
     "treatments": []
   },
   {
     "typeOfDisease": "HIV/AIDS",
-    "chornicDisease": "true",
+    "chornicDisease": true,
+    "treatments": []
+  },
+  {
+    "typeOfDisease": "Acute Pain",
+    "chornicDisease": false,
     "treatments": []
   }
 ]

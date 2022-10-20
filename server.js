@@ -1,6 +1,6 @@
 import db from "./db/connection.js";
 // add routes
-import routes from "./routes/index.js";
+import routes from "./router.js";
 import express from "express";
 import cors from "cors";
 import logger from "morgan";

@@ -1,11 +1,11 @@
 import mongoose from "mongoose";
-const mongoose = mongoose.Schema;
+const Schema = mongoose.Schema;
 
-const Drug = new mongoose.Schema({
+const Drug = new Schema({
   genericDrugName: { type: String },
-  drugBrandName: { type: String },
+  brandDrugName: [{ type: String }],
   drugClass: { type: String },
-  "FDA-Indications": { type: String },
+  FDAIndications: { type: String },
   "Rx-only": { type: Boolean }
 });
 

@@ -3,8 +3,9 @@ import chalk from "chalk";
 
 mongoose.set("returnOriginal", false)
 
+
 mongoose
-  .connect("mongodb://127.0.0.1:27017/raul-potter-api_db")
+  .connect("mongodb://127.0.0.1:27017/drugs-api_db")
   .catch((err) => {
     console.log(`Error connection go MongoDB: ${err.message}`);
   });

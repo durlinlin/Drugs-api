@@ -1,10 +1,10 @@
 import mongoose from "mongoose";
-const mongoose = mongoose.Schema;
+const Schema = mongoose.Schema;
 
-const DiseaseState = new mongoose.Schema({
+const DiseaseState = new Schema({
   typeOfDisease: { type: String },
   chornicDisease: { type: Boolean },
-  treatments: [{ type: String }]
+  treatments: [{type: String}]
 });
-
+//{ type: Schema.Types.Mixed, ref: 'drugs' }
 export default mongoose.model('diseaseStates', DiseaseState)
