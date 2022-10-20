@@ -1,0 +1,22 @@
+[
+  {
+    "typeOfDisease": "Hypertension",
+    "chornicDisease": "true",
+    "treatments": []
+  },
+  {
+    "typeOfDisease": "Type II Diabetes",
+    "chornicDisease": "true",
+    "treatments": []
+  },
+  {
+    "typeOfDisease": "Hyperlipidemia",
+    "chornicDisease": "true",
+    "treatments": []
+  },
+  {
+    "typeOfDisease": "HIV/AIDS",
+    "chornicDisease": "true",
+    "treatments": []
+  }
+]

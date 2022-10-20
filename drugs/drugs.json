@@ -1,0 +1,38 @@
+[
+  {
+    "genericDrugName": "Enalapril",
+    "drugBrandName": "Vasotec",
+    "drugClass": "angiotensin-converting enzyme (ACE) inhibitor",
+    "FDA-Indications": "Hypertension",
+    "Rx-only": true
+  },
+  {
+    "genericDrugName": "Lisinopril",
+    "drugBrandName": ["Prinivil", "Zestril"],
+    "drugClass": "angiotensin-converting enzyme (ACE) inhibitor",
+    "FDA-Indications": "Hypertension",
+    "Rx-only": true
+  },
+  {
+    "genericDrugName": "Valsartan",
+    "drugBrandName": "Diovan",
+    "drugClass": "angiotensin II receptor blocker (ARB)",
+    "FDA-Indications": "Hypertension",
+    "Rx-only": true
+  },
+  {
+    "genericDrugName": "Amlodipine",
+    "drugBrandName": "Norvasc",
+    "drugClass": "calcium channel blocker (CCB)",
+    "FDA-Indications": "Hypertension",
+    "Rx-only": true
+  },
+  {
+    "genericDrugName": "Nifedipine",
+    "drugBrandName": "Procardia XL",
+    "drugClass": "calcium channel blocker (CCB)",
+    "FDA-Indications": "Hypertension",
+    "Rx-only": true
+  }
+  
+]
