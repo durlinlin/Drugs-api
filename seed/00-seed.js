@@ -16,17 +16,3 @@ const insertData = async () => {
 
 insertData();
 
-// const updateTreatment = async() => {
-//   Drug.find({}).then((response) => {
-//     // console.log(response)
-//     response.forEach(async (eachResponse) => {
-//       await DiseaseState.updateMany(
-//         // console.log(eachResponse)
-//         { typeOfDisease: eachResponse.FDAIndications},
-//         { $set: { treatments: eachResponse.brandDrugName } }
-//       );
-//     });
-//   });
-//   db.close();
-// };
-// updateTreatment();

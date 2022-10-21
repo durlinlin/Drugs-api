@@ -3,16 +3,23 @@ import DiseaseState from "../diseaseStates/model.js";
 import Drug from "../drugs/model.js";
 
 
-// const updateTreatment = async () => {
-//   let drugs = await Drug.find({})
-//   drugs.forEach(async (drugsObj) => {
-//     await DiseaseState.updateMany(
-//       { typeOfDisease: drugsObj.FDAIndications },
-//       { $push: { treatments: drugsObj.genericDrugName } }
-//     )
-//   .then(db.close());
-//   });
-// };
-updateTreatment();
+DiseaseState.find({}).then((diseases) => {
+  diseases.forEach((disease) => {
+    Drug.find({}).then((drugs) => {
+      drugs.forEach((drug) => {
+        if (disease.typeOfDisease === drug.FDAIndications && (disease.treatments.length == 0)) {
+          console.log(`${disease.typeOfDisease} uses ${drug.genericDrugName}`)
+          DiseaseState.findOneAndUpdate(
+            { _id: disease._id }, 
+            { $push: { treatments: drug.genericDrugName } },
+         )   
+        }
+      })
+    })
+  })
+})
+
+
+
 
 
