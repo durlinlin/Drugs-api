@@ -6,7 +6,8 @@ const Drug = new Schema({
   brandDrugName: [{ type: String }],
   drugClass: { type: String },
   FDAIndications: { type: String },
-  "Rx-only": { type: Boolean }
+  "Rx-only": { type: Boolean },
+  image: { type: String }
 });
 
 export default mongoose.model('drugs', Drug)

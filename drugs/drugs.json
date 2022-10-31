@@ -4,7 +4,8 @@
     "brandDrugName": "Vasotec",
     "drugClass": "angiotensin-converting enzyme (ACE) inhibitor",
     "FDAIndications": "Hypertension",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/39631f1f-5d19-43c1-b504-bf56d991ed97/image-02.jpg"
   },
   {
     "genericDrugName": "Lisinopril",
