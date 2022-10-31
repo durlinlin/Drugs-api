@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "db:seed": "node seed/00-seed.js"
+    "db:seed": "node seed/00-seed.js",
+    "db:seed2": "node seed/01-nested-seed.js"
   },
   "repository": {
     "type": "git",
