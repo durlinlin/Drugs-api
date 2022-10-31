@@ -61,7 +61,7 @@
     "drugClass": "sulfonylureas",
     "FDAIndications": "Type II Diabetes",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/b4f55916-91a2-4171-a361-919e7cb329b0/glucotrol-03.jpg"
   },
   {
     "genericDrugName": "Insulin isophane",
@@ -69,7 +69,7 @@
     "drugClass": "intermediate-acting insulin",
     "FDAIndications": "Type II Diabetes",
     "Rx-only": false,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/2e09f59a-f4cc-43b3-a481-4224df82f9b6/humulin-n-kpen-carton-SH001-01.jpg"
   },
   {
     "genericDrugName": "Atorvastatin",
@@ -77,7 +77,7 @@
     "drugClass": "statin",
     "FDAIndications": "Hyperlipidemia",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/c6e131fe-e7df-4876-83f7-9156fc4e8228/lipitor-06.jpg"
   },
   {
     "genericDrugName": "Simvastatin",
@@ -85,7 +85,7 @@
     "drugClass": "statin",
     "FDAIndications": "Hyperlipidemia",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/fdbfe194-b845-42c5-bb87-a48118bc72e7/zocor-04.jpg"
   },
   {
     "genericDrugName": "Rosuvastatin",
@@ -93,7 +93,7 @@
     "drugClass": "statin",
     "FDAIndications": "Hyperlipidemia",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/325a5d0e-9a72-4015-9fcd-1655fb504cee/10_mg_90_tablet_bottle_label.jpg"
   },
   {
     "genericDrugName": "Fenofibrate",
@@ -101,7 +101,7 @@
     "drugClass": "fibric acid derivative",
     "FDAIndications": "Hyperlipidemia",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/b693e68d-f812-4993-54b6-852e3517c344/tricor-145-spl-05.jpg"
   },
   {
     "genericDrugName": "Emtricitabine/ Tenofovir disiproxil fumarate",
@@ -109,7 +109,7 @@
     "drugClass": "nucleoside reverse transcriptase inhibitors (NRTIs)",
     "FDAIndications": "HIV/AIDS",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/54e82b13-a037-49ed-b4b3-030b37c0ecdd/truvada-03.jpg"
   },
   {
     "genericDrugName": "Emtricitabine/ Tenofovir alafenamide ",
@@ -117,7 +117,7 @@
     "drugClass": "nucleoside reverse transcriptase inhibitors (NRTIs)",
     "FDAIndications": "HIV/AIDS",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/34784acf-15ed-4715-b504-eb30430518e9/genvoya-05.jpg"
   },
   {
     "genericDrugName": "Bictegravir/ Emtricitabine/ Tenofovir alafenamide ",
@@ -125,7 +125,7 @@
     "drugClass": "integrase strand transfer inhibitors (INSTIs)",
     "FDAIndications": "HIV/AIDS",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/664cb8f0-1f65-441b-b0d9-ba3d798be309/biktarvy-04.jpg"
   },
   {
     "genericDrugName": "Elvitegravir/ Cobicistat/ Emtricitabine/ Tenofovir Alafenamide",
@@ -133,7 +133,7 @@
     "drugClass": "nucleoside reverse transcriptase inhibitors (NRTIs) and integrase inhibitor",
     "FDAIndications": "HIV/AIDS",
     "Rx-only": true,
-    "image": ""
+    "image": "https://www.drugs.com/pro/images/74ae2a93-b267-444c-8f0f-a2a6522260ee/stribild-07.jpg"
   },
   {
     "genericDrugName": "Acetaminophen",
@@ -141,7 +141,7 @@
     "drugClass": "analgesic",
     "FDAIndications": "Acute Pain",
     "Rx-only": false,
-    "image": ""
+    "image": "https://dailymed.nlm.nih.gov/dailymed/image.cfm?name=Label.jpg&id=303477"
   },
   {
     "genericDrugName": "Ibuprofen",
@@ -149,7 +149,7 @@
     "drugClass": "NSAIDs",
     "FDAIndications": "Acute Pain",
     "Rx-only": false,
-    "image": ""
+    "image": "https://fda.report/DailyMed/5be198b8-396e-4b44-8819-e2e3b5d2ad0e/advil-01.jpg"
   },
   {
     "genericDrugName": "Naproxen",
@@ -157,6 +157,6 @@
     "drugClass": "NSAIDs",
     "FDAIndications": "Acute Pain",
     "Rx-only": false,
-    "image": ""
+    "image": "https://www.gnhindia.com/wp-content/uploads/2021/02/setidabfcf13e-6eba-49e2-8ebf-459348714270namealeve-01.jpg"
   }
 ]
