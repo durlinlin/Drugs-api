@@ -12,132 +12,151 @@
     "brandDrugName": ["Prinivil", "Zestril"],
     "drugClass": "angiotensin-converting enzyme (ACE) inhibitor",
     "FDAIndications": "Hypertension",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/f6f3c339-2c9d-4d07-14a1-6d6c7daf26c6/prinivil-02.jpg"
   },
   {
     "genericDrugName": "Valsartan",
     "brandDrugName": "Diovan",
     "drugClass": "angiotensin II receptor blocker (ARB)",
     "FDAIndications": "Hypertension",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/5ddba454-f3e6-43c2-a7a6-58365d297213/diovan-tablets-04.jpg"
   },
   {
     "genericDrugName": "Amlodipine",
     "brandDrugName": "Norvasc",
     "drugClass": "calcium channel blocker (CCB)",
     "FDAIndications": "Hypertension",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/abd6a2ca-40c2-485c-bc53-db1c652505ed/norvasc-05.jpg"
   },
   {
     "genericDrugName": "Nifedipine",
     "brandDrugName": "Procardia XL",
     "drugClass": "calcium channel blocker (CCB)",
     "FDAIndications": "Hypertension",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/8ebcb33c-f43b-4b36-9f94-9774b2a59e06/procardia-xl-03.jpg"
   },
   {
     "genericDrugName": "Metformin",
     "brandDrugName": "Glucophage",
     "drugClass": "biguanide",
     "FDAIndications": "Type II Diabetes",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/4a0166c7-7097-4e4a-9036-6c9a60d08fc6/glucophage-500mg-btl-lbl%20.jpg"
   },
   {
     "genericDrugName": "Sitagliptin",
     "brandDrugName": "Januvia",
     "drugClass": "dipeptidyl peptidase-4 (DPP-4) inhibitor",
     "FDAIndications": "Type II Diabetes",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": "https://www.drugs.com/pro/images/f85a48d0-0407-4c50-b0fa-7673a160bf01/januvia-06.jpg"
   },
   {
     "genericDrugName": "Glipizide",
     "brandDrugName": ["Glucotrol","Glucotrol XL"],
     "drugClass": "sulfonylureas",
     "FDAIndications": "Type II Diabetes",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Insulin isophane",
     "brandDrugName": "Humulin N",
     "drugClass": "intermediate-acting insulin",
     "FDAIndications": "Type II Diabetes",
-    "Rx-only": false
+    "Rx-only": false,
+    "image": ""
   },
   {
     "genericDrugName": "Atorvastatin",
     "brandDrugName": "Lipitor",
     "drugClass": "statin",
     "FDAIndications": "Hyperlipidemia",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Simvastatin",
     "brandDrugName": "Zocor",
     "drugClass": "statin",
     "FDAIndications": "Hyperlipidemia",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Rosuvastatin",
     "brandDrugName": "Crestor",
     "drugClass": "statin",
     "FDAIndications": "Hyperlipidemia",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Fenofibrate",
     "brandDrugName": ["Fenoglide", "Tricor", "Triglide"],
     "drugClass": "fibric acid derivative",
     "FDAIndications": "Hyperlipidemia",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Emtricitabine/ Tenofovir disiproxil fumarate",
     "brandDrugName": "Truvada",
     "drugClass": "nucleoside reverse transcriptase inhibitors (NRTIs)",
     "FDAIndications": "HIV/AIDS",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Emtricitabine/ Tenofovir alafenamide ",
     "brandDrugName": "Genvoya",
     "drugClass": "nucleoside reverse transcriptase inhibitors (NRTIs)",
     "FDAIndications": "HIV/AIDS",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Bictegravir/ Emtricitabine/ Tenofovir alafenamide ",
     "brandDrugName": "Biktarvy",
     "drugClass": "integrase strand transfer inhibitors (INSTIs)",
     "FDAIndications": "HIV/AIDS",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Elvitegravir/ Cobicistat/ Emtricitabine/ Tenofovir Alafenamide",
     "brandDrugName": "Stribild",
     "drugClass": "nucleoside reverse transcriptase inhibitors (NRTIs) and integrase inhibitor",
     "FDAIndications": "HIV/AIDS",
-    "Rx-only": true
+    "Rx-only": true,
+    "image": ""
   },
   {
     "genericDrugName": "Acetaminophen",
     "brandDrugName": "Tylenol",
     "drugClass": "analgesic",
     "FDAIndications": "Acute Pain",
-    "Rx-only": false
+    "Rx-only": false,
+    "image": ""
   },
   {
     "genericDrugName": "Ibuprofen",
     "brandDrugName": ["Motrin", "Advil"],
     "drugClass": "NSAIDs",
     "FDAIndications": "Acute Pain",
-    "Rx-only": false
+    "Rx-only": false,
+    "image": ""
   },
   {
     "genericDrugName": "Naproxen",
     "brandDrugName": ["Aleve","Naprosyn"],
     "drugClass": "NSAIDs",
     "FDAIndications": "Acute Pain",
-    "Rx-only": false
+    "Rx-only": false,
+    "image": ""
   }
 ]
