@@ -6,7 +6,9 @@ import drugs from "../drugs/drugs.json" assert { type: "json" };
 
 const insertData = async () => {
   // reset database
-  await db.dropDatabase();
+  // await db.dropDatabase();
+  await DiseaseState.deleteMany({});
+  await Drug.deleteMany({});
   // insert database
   await DiseaseState.create(diseaseStates);
   await Drug.create(drugs);
