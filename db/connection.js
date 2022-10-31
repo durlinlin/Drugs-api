@@ -5,7 +5,7 @@ mongoose.set("returnOriginal", false)
 
 
 mongoose
-  .connect("mongodb://127.0.0.1:27017/drugs-api_db")
+  .connect(process.env.MONGO_URL || "mongodb://127.0.0.1:27017/drugs-api_db")
   .catch((err) => {
     console.log(`Error connection go MongoDB: ${err.message}`);
   });

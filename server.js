@@ -7,7 +7,7 @@ import logger from "morgan";
 import chalk from "chalk";
 
 const app = express();
-const PORT = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(cors());
@@ -18,7 +18,7 @@ app.use("/", routes);
 db.on("connected", () => {
   console.clear()
   console.log(chalk.blue("Connected to MongoDB!"));
-  app.listen(PORT, () => {
-    console.log(`Express sever running in development on http://localhost:${PORT}`);
+  app.listen(port, () => {
+    console.log(`Express sever running in development on http://localhost:${port}`);
   });
 });
